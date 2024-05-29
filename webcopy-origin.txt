@@ -1,0 +1,196 @@
+Uri: https://bezpeka.onlline.com.ua/
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://bezpeka.onlline.com.ua/Політика конфіденційності.html
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\Політика конфіденційності.html
+Content Type: text/html
+
+Uri: https://bezpeka.onlline.com.ua/Угода користувача.html
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\Угода користувача.html
+Content Type: text/html
+
+Uri: https://bezpeka.onlline.com.ua/Умови гарантії і повернення.html
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\Умови гарантії і повернення.html
+Content Type: text/html
+
+Uri: https://bezpeka.onlline.com.ua/css/classic-themes.min.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/fonts.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\fonts.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/landing-style-2.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\landing-style-2.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/lottiefiles-frontend.css.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\lottiefiles-frontend.css.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/style.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\style.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/style.min.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\style.min.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/style.min_1.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\style.min_1.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/styles.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\styles.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Bold.ttf
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Bold.woff
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Bold.woff
+Content Type: font/woff
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Bold.woff2
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Light.ttf
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Light.woff
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Light.woff
+Content Type: font/woff
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Light.woff2
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Light.woff2
+Content Type: font/woff2
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Medium.ttf
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Medium.woff
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Medium.woff
+Content Type: font/woff
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Medium.woff2
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Regular.ttf
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Regular.woff
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Regular.woff
+Content Type: font/woff
+
+Uri: https://bezpeka.onlline.com.ua/fonts/AvenirNextCyr-Regular.woff2
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\fonts\AvenirNextCyr-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://bezpeka.onlline.com.ua/images/0303.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\0303.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/09a2af1bd39edb4842530e8fc647beee.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\09a2af1bd39edb4842530e8fc647beee.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/111111111.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\111111111.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/281144891.webp
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\281144891.webp
+Content Type: image/webp
+
+Uri: https://bezpeka.onlline.com.ua/images/281144926.webp
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\281144926.webp
+Content Type: image/webp
+
+Uri: https://bezpeka.onlline.com.ua/images/281144936.webp
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\281144936.webp
+Content Type: image/webp
+
+Uri: https://bezpeka.onlline.com.ua/images/281144956.webp
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\281144956.webp
+Content Type: image/webp
+
+Uri: https://bezpeka.onlline.com.ua/images/949197da8aebdfa4ceaca3b04622743c.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\949197da8aebdfa4ceaca3b04622743c.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/advs1.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\advs1.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/advs2.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\advs2.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/advs3.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\advs3.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/benef2_item.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\benef2_item.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/d88086c8ca011a8ad4cecf1905d9f09a.gif
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\d88086c8ca011a8ad4cecf1905d9f09a.gif
+Content Type: image/gif
+
+Uri: https://bezpeka.onlline.com.ua/images/list1__separator.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\list1__separator.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/offer__tick_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\offer__tick_icon.png
+Content Type: image/png
+
+Uri: https://bezpeka.onlline.com.ua/images/order_info2__delivery_image.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\order_info2__delivery_image.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/order_info2__guarantee_image.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\order_info2__guarantee_image.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/order_info2__payment_image.jpg
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\order_info2__payment_image.jpg
+Content Type: image/jpeg
+
+Uri: https://bezpeka.onlline.com.ua/images/yellow_tick_icon.png
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\images\yellow_tick_icon.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=364066653239495&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bezpeka.onlline.com.ua\tr
+Content Type: text/plain
+
